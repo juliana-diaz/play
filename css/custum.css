@@ -89,7 +89,7 @@
   .header {
     margin-top: 18rem; }
   .value-props {
-    margin-top: 9rem;
+    margin-top: 0rem; /*used to be 9rem*/
     margin-bottom: 7rem; }
   .value-img {
     margin-bottom: 1rem; }
