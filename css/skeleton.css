@@ -447,3 +447,13 @@ there.
     color: #FFCC01;
     font-weight: 600;
 }
+
+.footer{
+  position: absolute;
+  width: 100%;
+  padding: 10px;
+  color: white;
+  padding: 20px 0px;
+  background-color: #555454;
+  font-size: 85%;
+}
